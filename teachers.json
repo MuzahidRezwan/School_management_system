@@ -1,0 +1,44 @@
+[
+    {
+        "id": "T001",
+        "name": "Dr. Sarah Johnson",
+        "email": "sarah@school.com",
+        "subject": "Mathematics"
+    },
+    {
+        "id": "T002",
+        "name": "Prof. James Wilson",
+        "email": "james@school.com",
+        "subject": "Physics"
+    },
+    {
+        "id": "T003",
+        "name": "sharup",
+        "email": "sharup@gmail.com",
+        "subject": "English"
+    },
+    {
+        "id": "T004",
+        "name": "Rony",
+        "email": "rony@gmail.com",
+        "subject": "Statistics"
+    },
+    {
+        "id": "T005",
+        "name": "Ms.Mim",
+        "email": "mimakter@gmail.com",
+        "subject": "Art of living"
+    },
+    {
+        "id": "T006",
+        "name": "Faruk Ahmed",
+        "email": "faruk@gmail.com",
+        "subject": "Machine Learning"
+    },
+    {
+        "id": "T007",
+        "name": "Trisha akter",
+        "email": "trisha2@gmail.com",
+        "subject": "Theory of Computing"
+    }
+]

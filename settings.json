@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.port": 5501,
+    "attendance.threshold": 75,
+    "system.name": "Student Attendance Management System",
+    "academic.year": "2024-2025"
+}

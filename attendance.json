@@ -1,0 +1,122 @@
+[
+    {
+        "id": "A001",
+        "student_id": "101",
+        "course_id": "C001",
+        "date": "2024-01-15",
+        "status": "Present",
+        "teacher_id": "T001"
+    },
+    {
+        "id": "A002",
+        "student_id": "102",
+        "course_id": "C001",
+        "date": "2024-01-15",
+        "status": "Absent",
+        "teacher_id": "T001"
+    },
+    {
+        "id": "A003",
+        "student_id": "103",
+        "course_id": "C002",
+        "date": "2024-01-16",
+        "status": "Late",
+        "teacher_id": "T002"
+    },
+    {
+        "id": "A004",
+        "student_id": "104",
+        "course_id": "C001",
+        "date": "2026-04-21",
+        "status": "Present",
+        "teacher_id": "T001"
+    },
+    {
+        "id": "A005",
+        "student_id": "101",
+        "course_id": "C001",
+        "date": "2026-04-21",
+        "status": "Present",
+        "teacher_id": "T001"
+    },
+    {
+        "id": "A006",
+        "student_id": "101",
+        "course_id": "C002",
+        "date": "2026-04-21",
+        "status": "Not Marked",
+        "teacher_id": "SYSTEM"
+    },
+    {
+        "id": "A007",
+        "student_id": "101",
+        "course_id": "C003",
+        "date": "2026-04-21",
+        "status": "Present",
+        "teacher_id": "T003"
+    },
+    {
+        "id": "A008",
+        "student_id": "101",
+        "course_id": "C004",
+        "date": "2026-04-22",
+        "status": "Present",
+        "teacher_id": "T004"
+    },
+    {
+        "id": "A009",
+        "student_id": "102",
+        "course_id": "C004",
+        "date": "2026-04-22",
+        "status": "Present",
+        "teacher_id": "T004"
+    },
+    {
+        "id": "A010",
+        "student_id": "103",
+        "course_id": "C005",
+        "date": "2026-04-22",
+        "status": "Not Marked",
+        "teacher_id": "SYSTEM"
+    },
+    {
+        "id": "A011",
+        "student_id": "102",
+        "course_id": "C005",
+        "date": "2026-04-22",
+        "status": "Present",
+        "teacher_id": "T005"
+    },
+    {
+        "id": "A012",
+        "student_id": "102",
+        "course_id": "C002",
+        "date": "2026-04-22",
+        "status": "Present",
+        "teacher_id": "T002"
+    },
+    {
+        "id": "A013",
+        "student_id": "102",
+        "course_id": "C006",
+        "date": "2026-04-22",
+        "status": "Present",
+        "teacher_id": "T006"
+    },
+    {
+        "id": "A014",
+        "student_id": "102",
+        "course_id": "C003",
+        "date": "2026-04-22",
+        "status": "Present",
+        "teacher_id": "T003"
+    },
+    {
+        "id": "A015",
+        "student_id": "102",
+        "course_id": "C001",
+        "date": "2026-04-22",
+        "status": "Present",
+        "teacher_id": "T001"
+    }
+]

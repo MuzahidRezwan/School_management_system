@@ -1,0 +1,44 @@
+[
+    {
+        "id": "C001",
+        "name": "Advanced Mathematics",
+        "teacher_id": "T001",
+        "schedule": "Mon\/Wed 10:00 AM"
+    },
+    {
+        "id": "C002",
+        "name": "Physics 101",
+        "teacher_id": "T002",
+        "schedule": "Tue\/Thu 2:00 PM"
+    },
+    {
+        "id": "C003",
+        "name": "sharup",
+        "teacher_id": "T003",
+        "schedule": "sunday"
+    },
+    {
+        "id": "C004",
+        "name": "Statistics",
+        "teacher_id": "T004",
+        "schedule": "sunday"
+    },
+    {
+        "id": "C005",
+        "name": "Art of Living",
+        "teacher_id": "T005",
+        "schedule": "monday"
+    },
+    {
+        "id": "C006",
+        "name": "Machine Learning",
+        "teacher_id": "T006",
+        "schedule": "friday"
+    },
+    {
+        "id": "C007",
+        "name": "Theory of Computing",
+        "teacher_id": "T007",
+        "schedule": "wednesday"
+    }
+]
